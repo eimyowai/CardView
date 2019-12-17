@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Grammar Guide</string>
+    <string name="title_activity_future">FutureActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_future_con">FutureConActivity</string>
+    <string name="title_activity_future_perfect">FuturePerfectActivity</string>
+    <string name="title_activity_future_per_con">FuturePerConActivity</string>
+    <string name="Barticle">Article</string>
+    <string name="BPSimple">Present Tense</string>
+    <string name="BPCon">Present Continuous</string>
+    <string name="BPPC">Present Perfect Continuous</string>
+
+    <string name="BP">Present Perfect</string>
+
+    <string name="BPaS">Past Tense</string>
+    <string name="BPaC">Past Continuous</string>
+    <string name="BPaP">Past Perfect</string>
+    <string name="BPaPC">Past Perfect Continuous</string>
+    <string name="BFT">Future Tense</string>
+    <string name="BFC">Future Continuous</string>
+    <string name="BFP">Future Perfect</string>
+    <string name="BFPC">Future Perfect Continuous</string>
+    <string name="title_activity_present">PresentActivity</string>
+    <string name="title_activity_present_con">PresentConActivity</string>
+    <string name="title_activity_pre_perfect">PrePerfectActivity</string>
+    <string name="title_activity_present_perfect_con">PresentPerfectConActivity</string>
+    <string name="title_activity_past">PastActivity</string>
+    <string name="title_activity_past_con">PastConActivity</string>
+    <string name="title_activity_past_perfect">PastPerfectActivity</string>
+    <string name="title_activity_past_per_con">PastPerConActivity</string>
+    <string name="title_activity_article">ArticleActivity</string>
+    <string name="title_activity_active">ActiveActivity</string>
+    <string name="title_activity_after">AfterActivity</string>
+    <string name="title_activity_although">AlthoughActivity</string>
+    <string name="title_activity_both_and">BothAndActivity</string>
+
+
+    <string name="active_passive">Active...Passive</string>
+    <string name="after">After</string>
+    <string name="although">Although..In spite Of</string>
+    <string name="BothAnd">Both...And</string>
+    <string name="direct">Direct..Indirect</string>
+    <string name="either">Either...Or</string>
+    <string name="ifUnless">If...Unless</string>
+    <string name="itIs">It is..It was</string>
+    <string name="neither">Neither..Nor</string>
+    <string name="noSooner">No Sonner...than</string>
+    <string name="notonly">Not only..But also</string>
+    <string name="NowIn">Now in apposition</string>
+    <string name="parallel">Parallel Structure</string>
+    <string name="relative">Relative Clause</string>
+    <string name="sothat">So that..Such that</string>
+    <string name="WhenBy">When..By the time</string>
+    <string name="tooTo">Too to..not enough to</string>
+    <string name="tooToSo">Too to..So that</string>
+    <string name="WhenVing">When Ving</string>
+    <string name="title_activity_direct_indirect">DirectIndirectActivity</string>
+    <string name="title_activity_either">EitherActivity</string>
+
+    <string name="countable">Countable...UnCountable</string>
+    <string name="Adj">Adj...Ending</string>
+    <string name="Unreal">Unreal..Present Future</string>
+    <string name="ing">Ing..Infinitive</string>
+    <string name="phrasal">Phrasal Verb</string>
+    <string name="model">Model Verb</string>
+    <string name="Ar">  - တစ်ခု၊ တစ်ကောင်၊ တစ်ယောက် ဆိုရင် a ထည့်ပါ။
+  - a, e, i, o, u ဆိုရင် an ထည့်ပါ။
+         - တိက တာဆိုရငthe ထည့်ပါ</string>
+    <string name="BR">             -Verb အနည္္ကိုသုံးပါ။
+             -ၿဖစ္လ်ွင္ေနာက္မွာ Pronoun နွင့္ Verb ကိုက္ညီရမည္။
+             -if ျဖဳတ္ျပီး either--or နွင့္ဆက္လ်ွင္ does/does not ျဖဳတ္ပါ။ </string>
+
+    <string name="fc">-အနာဂတ္အခ်ိန္ကိုေရာက္ရင္ လုပ္ေနမယ့္  အခ်ိန္ကိုေဖာ္ၿပရင္
+ Future Continuous Tense သုံး</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="admob_app_id"> ca-app-pub-394056099942544~3347511713</string>
+    <string name="interstitial_ad_unit_id"> ca-app-pub-3940256099942544/1033173712</string>
+    <string name="banner_ad_Unit_id"> ca-app-pub-3940256099942544/6300978111</string>
+    <string name="text_quiz">Quiz</string>
+    <string name="text_intermediate">Intermediate</string>
+    <string name="text_advanced">Advanced</string>
+    <string name="text_basic">Basic</string>
+
+</resources>

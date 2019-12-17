@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.grammarguide">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:fullBackupContent="true"
+        android:icon="@drawable/back"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Quiz">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+
+        </activity>
+        <activity android:name=".Lesson3">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".IntermediateActivity" />
+        </activity>
+        <activity android:name=".Lesson2">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".AdvancedActivity" />
+        </activity>
+        <activity android:name=".Question3">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".IntermediateActivity" />
+        </activity>
+        <activity android:name=".Question2">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".AdvancedActivity" />
+
+        </activity>
+        <activity android:name=".AlertBox" />
+        <activity android:name=".Question">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".BasicActivity" />
+        </activity>
+        <activity android:name=".RadioTest" />
+        <activity android:name=".ArticleLessonActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".BasicActivity" />
+        </activity>
+        <activity android:name=".AdvancedActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity android:name=".IntermediateActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity android:name=".BasicActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
